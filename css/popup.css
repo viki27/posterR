@@ -1,0 +1,113 @@
+.centervertical {
+    display: table; 
+    width: 100%;
+    margin: auto;
+}
+
+.centerverticalchild {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.center {
+    margin: 0px auto;
+}
+
+.bigblock {
+    height: 300px;
+    width:70%;
+    display:inline-block;
+}
+
+.divtable {
+    display: table;
+    margin: auto;
+}
+
+.whitebg {
+    background-color:white;
+}
+
+.slateblue {
+    color:slateblue;
+}
+
+.themecolor {
+    color: #e74e10;
+}
+
+.themecolorbg {
+    background-color: #e74e10;
+}
+
+.bordr {
+    border:10px solid slateblue;
+}
+
+
+.divtable {
+    display: table;
+    margin: auto;
+}
+
+.divrowtext {
+    display: table-row;
+    text-align: center;
+}
+
+.divrowbutton {
+    display: table-row;
+    text-align: center;
+}
+
+.divtext {
+    display: table-cell;
+    vertical-align: top;
+    padding-top: 5px;
+}
+
+.divtextcenter {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.divbutton {
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom: 5px;
+}
+
+.divhorizontal {
+    display: inline-block;
+}
+
+
+.size {
+	height: 512px;
+	width: 100%;
+}
+
+.divhorizontal {
+    display: inline-block;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.floating-left {    
+    float:left;
+    margin-left: 20px;
+}
+.noUnderline {
+    text-decoration:none;
+}
+
+a:hover, a:active {
+    color:slateblue;
+    text-decoration:none;
+}
+
+.padding20px {
+    padding: 0px 20px;
+}
