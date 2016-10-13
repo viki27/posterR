@@ -9,6 +9,11 @@
     vertical-align: middle;
 }
 
+.modal-dialog {
+    width: 512px;
+    margin: 50px auto;
+}
+
 .center {
     margin: 0px auto;
 }
@@ -43,7 +48,6 @@
 .bordr {
     border:10px solid slateblue;
 }
-
 
 .divtable {
     display: table;
@@ -80,7 +84,6 @@
 .divhorizontal {
     display: inline-block;
 }
-
 
 .size {
 	height: 512px;
