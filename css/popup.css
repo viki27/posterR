@@ -9,18 +9,13 @@
     vertical-align: middle;
 }
 
-.modal-dialog {
-    width: 512px;
-    margin: 50px auto;
-}
-
 .center {
     margin: 0px auto;
 }
 
 .bigblock {
-    height: 300px;
-    width:70%;
+    height: 280px;
+    width:85%;
     display:inline-block;
 }
 
@@ -86,8 +81,8 @@
 }
 
 .size {
-	height: 512px;
-	width: 100%;
+	height: auto;
+	width: auto;
 }
 
 .divhorizontal {
@@ -113,4 +108,10 @@ a:hover, a:active {
 
 .padding20px {
     padding: 0px 20px;
+}
+
+.modal-content {
+   background-image: url('https://image.freepik.com/free-vector/abstract-background-with-a-watercolor-texture_1048-2144.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
 }
